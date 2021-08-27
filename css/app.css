@@ -487,41 +487,6 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
 
 /*====================================================
-                      PROCESS
-======================================================*/
-
-    .our-process {
-        background: #f0f0f0;
-    }
-
-    .our-process .servie-img {
-        margin: 0 auto;
-        margin-bottom: 50px;
-    }
-
-    .our-process .service-desc-cont {
-        text-align: center;
-        margin-top: 50px;
-    }
-
-    .our-process .service-desc-cont i {
-        font-size: 25px;
-        color: #F37E59;
-        margin-bottom: 10px;
-    }
-
-    .our-process .service-desc-cont h5 {
-        font-size: 18px;
-        text-transform: none;
-        color: #6c757d;
-    }
-
-    .our-process .service-desc-cont p {
-        color: #adb5bd;
-    }
-
-
-/*====================================================
                       GALLERY
 ======================================================*/
 
