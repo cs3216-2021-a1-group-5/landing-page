@@ -521,7 +521,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         background-position: center center;
         padding-top: 30px;
         padding-bottom: 30px;
-        min-height: 50vh;
+        min-height: 100vh;
     }
 
     .subscribe .overlay {
@@ -768,18 +768,4 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
         background: #F37E59;
         color: #fff;
-    }
-
-    /*====================================================
-                        FOOTER
-    ======================================================*/
-
-    .footer .top-footer {
-        padding: 20px 0;
-        background: #adb5bd;
-    }
-
-    .footer .top-footer p {
-        margin: 0;
-        color: #6c757d;
     }
