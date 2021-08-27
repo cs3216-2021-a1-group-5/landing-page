@@ -19,7 +19,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     a {
-        color: #37dbf5;
+        color: #F37E59;
     }
 
     a:hover {
@@ -27,7 +27,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     .text-primary {
-        color: #37dbf5 !important;
+        color: #F37E59 !important;
     }
 
     h1,
@@ -76,8 +76,8 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     .btn-primary {
-        background-color: #37dbf5;
-        border-color: #37dbf5;
+        background-color: #F37E59;
+        border-color: #F37E59;
     }
 
     .btn-primary:active,
@@ -94,12 +94,12 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     ::-moz-selection {
-        background: #37dbf5;
+        background: #F37E59;
         text-shadow: none;
     }
 
     ::selection {
-        background: #37dbf5;
+        background: #F37E59;
         text-shadow: none;
     }
 
@@ -139,26 +139,26 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     .btn-white {
-        border-color: #37dbf5;
-        background-color: #37dbf5;
+        border-color: #F37E59;
+        background-color: #F37E59;
         color: #fff;
     }
 
     .btn-white:hover,
     .btn-white:focus {
         background-color: transparent;
-        color: #37dbf5;
+        color: #F37E59;
         cursor: pointer;
     }
 
     .btn-greenish-blue {
-        border-color: #37dbf5;
-        color: #37dbf5;
+        border-color: #F37E59;
+        color: #F37E59;
     }
 
     .btn-greenish-blue:hover,
     .btn-greenish-blue:focus {
-        background-color: #37dbf5;
+        background-color: #F37E59;
         color: #fff;
         cursor: pointer;
     }
@@ -166,14 +166,14 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     .heading-border {
         width: 100px;
         height: 5px;
-        background-color: #37dbf5;
+        background-color: #F37E59;
         margin: 0 auto 20px auto;
     }
 
     .heading-border-light {
         width: 30px;
         height: 5px;
-        background-color: #37dbf5;
+        background-color: #F37E59;
         margin: 0 0 20px 0;
     }
 
@@ -193,7 +193,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         text-transform: uppercase;
         color: white;
         border: 0;
-        background-color: #37dbf5;
+        background-color: #F37E59;
         font-family: 'Lato', sans-serif;
     }
 
@@ -251,7 +251,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         }
         #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link.active,
         #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-            color: #37dbf5;
+            color: #F37E59;
         }
     }
 
@@ -271,7 +271,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     section .heading .bord-bot {
         width: 80px;
         margin: 0 auto;
-        border-bottom: 7px solid #37dbf5;
+        border-bottom: 7px solid #F37E59;
     }
 
     section .heading p {
@@ -399,7 +399,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         line-height: 38px;
         text-align: center;
         box-shadow: 0px 0px 14px -1px rgba(101, 99, 99, 0.35);
-        color: #37dbf5;
+        color: #F37E59;
     }
 
     .app-about .app-about-cont h3 {
@@ -501,7 +501,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
     .our-process .service-desc-cont i {
         font-size: 25px;
-        color: #37dbf5;
+        color: #F37E59;
         margin-bottom: 10px;
     }
 
@@ -525,7 +525,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     .faq .card .card-header {
-        background: #37dbf5;
+        background: #F37E59;
     }
 
     .faq .card .card-header h5 button {
@@ -541,7 +541,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         background: #fff;
         line-height: 50px;
         top: 2px;
-        color: #37dbf5;
+        color: #F37E59;
     }
 
     .faq .card .card-body {
@@ -583,7 +583,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 ======================================================*/
 
     .download-app {
-        background: #37dbf5;
+        background: #F37E59;
     }
 
     .download-app h1,
