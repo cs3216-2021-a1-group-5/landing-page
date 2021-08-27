@@ -296,6 +296,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         background-image: url(../img/utown-green.jpg);
         background-position: center;
         background-size: cover;
+        /* Tint background image */
+        background-color: rgba(0, 0, 0, 0.5);
+        background-blend-mode: multiply;
     }
 
     section.masthead .header-content {
