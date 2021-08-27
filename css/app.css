@@ -232,7 +232,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
             padding-top: 0;
             padding-bottom: 0;
             background-color: #1A3C61;
-            box-shadow: 0px 1px 5px 1px rgba(179, 174, 174, 0.5);
+            box-shadow: 0px 1px 5px 1px black;
         }
         #mainNav.navbar-shrink .navbar-brand {
             font-size: 1.55em;
