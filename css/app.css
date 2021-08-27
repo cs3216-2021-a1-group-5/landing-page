@@ -363,6 +363,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 /*====================================================
                         ABOUT
 ======================================================*/
+    .app-about {
+        background: #82A4D0;
+    }
 
     .app-about .row.first {
         margin-bottom: 100px;
@@ -513,48 +516,6 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
     .our-process .service-desc-cont p {
         color: #adb5bd;
-    }
-
-
-/*====================================================
-                      FAQ
-======================================================*/
-
-    .faq .card {
-        background: transparent;
-    }
-
-    .faq .card .card-header {
-        background: #F37E59;
-    }
-
-    .faq .card .card-header h5 button {
-        color: #fff;
-        text-decoration: none;
-    }
-
-    .faq .card .card-header h5 button i.fa-btc {
-        position: absolute;
-        right: 2px;
-        font-size: 25px;
-        padding: 4px 20px;
-        background: #fff;
-        line-height: 50px;
-        top: 2px;
-        color: #F37E59;
-    }
-
-    .faq .card .card-body {
-        background: #e9ecef;
-        color: #adb5bd;
-    }
-
-    @media (min-width: 767px) and (max-width: 991px) {
-        .faq .container .row .col-md-6 {
-            -ms-flex: 0 0 100%;
-            flex: 0 0 100%;
-            max-width: 100% !important;
-        }
     }
 
 
