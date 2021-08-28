@@ -306,14 +306,8 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         font-size: 30px;
     }
 
-    section.masthead .device-container {
-        max-width: 270px;
-        margin-right: auto;
-        margin-left: auto;
-    }
-
-    section.masthead .device-container .screen img {
-        border-radius: 3px;
+    section.masthead img {
+        max-height: 80vh;
     }
 
     .bg-banner-img img {
@@ -333,12 +327,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
             text-align: left;
         }
         section.masthead .header-content h1 {
-            font-size: 40px;
+            font-size: 50px;
             font-weight: 700;
             margin: auto;
-        }
-        section.masthead .device-container {
-            max-width: 325px;
         }
     }
 
@@ -348,6 +339,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
             margin: 50px 0 0 0;
             width: 270px;
             height: 550px;
+        }
+        section.masthead img {
+            max-height: 60vh;
         }
     }
 
