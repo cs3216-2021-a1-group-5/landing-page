@@ -215,7 +215,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         }
         #mainNav .navbar-nav .nav-item .nav-link {
             padding: 1.1em 1em !important;
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Noto Sans', sans-serif;
         }
         #mainNav.navbar-shrink {
             padding-top: 0;
@@ -228,17 +228,13 @@ License URL: https://creativecommons.org/licenses/by/4.0/
             padding: 12px 0;
         }
         #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
-            font-size: 80%;
-            font-weight: 600;
             padding: 0.75em 0;
-            letter-spacing: 0px;
             color: white;
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Noto Sans', sans-serif;
         }
         #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link a {
             font-size: 14px;
         }
-        #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link.active,
         #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
             color: #F37E59;
         }
