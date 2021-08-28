@@ -364,7 +364,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     .app-about .app-about-cont {
-        margin-left: 150px;
+        margin-left: 75px;
     }
 
     .app-about .app-about-cont .icon-container {
@@ -386,7 +386,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
     .app-about .app-about-cont.right {
         margin-left: 0;
-        margin-right: 150px;
+        margin-right: 75px;
         text-align: right;
     }
 
