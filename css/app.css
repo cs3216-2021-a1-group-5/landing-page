@@ -407,12 +407,13 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         color: #F37E59;
     }
 
-    .app-about .app-about-cont h3 {
+    .app-about .app-about-cont h1 {
         color: #1A3C61;
     }
 
     .app-about .app-about-cont p {
         color: white;
+        font-size: large;
     }
 
     .app-about img.third {
