@@ -377,16 +377,11 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         margin-left: 150px;
     }
 
-    .app-about .app-about-cont i {
-        font-size: 20px;
-        margin-bottom: 15px;
-        border: 1px solid #dee2e6;
-        border-radius: 50%;
-        height: 38px;
-        width: 38px;
-        line-height: 38px;
-        text-align: center;
-        box-shadow: 0px 0px 14px -1px rgba(101, 99, 99, 0.35);
+    .app-about .app-about-cont .icon-container {
+        color: white;
+    }
+
+    .app-about .app-about-cont .icon {
         color: #F37E59;
     }
 
