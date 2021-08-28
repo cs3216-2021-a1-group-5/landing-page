@@ -487,26 +487,6 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
 
 /*====================================================
-                      GALLERY
-======================================================*/
-
-    .gallery {
-        background: #e9ecef;
-    }
-
-    .gallery .gallery-img {
-        margin: 0 10px;
-    }
-
-    .gallery .gallery-img img {
-        margin-bottom: 10px;
-        box-shadow: 2px 5px 5px 1px rgba(0, 0, 0, 0.2);
-        border-radius: 7px;
-        height: 500px;
-    }
-
-
-/*====================================================
                       Subscribe
 ======================================================*/
 
