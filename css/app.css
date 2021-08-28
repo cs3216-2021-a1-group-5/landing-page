@@ -369,8 +369,8 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         background: #82A4D0;
     }
 
-    .app-about .row.first {
-        margin-bottom: 100px;
+    .app-about .row {
+        margin-bottom: 50px;
     }
 
     .app-about .app-about-cont {
@@ -401,7 +401,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     @media (max-width: 767px) {
-        .app-about .row.first {
+        .app-about .row {
             margin-bottom: 0px;
         }
 
