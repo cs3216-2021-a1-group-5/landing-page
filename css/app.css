@@ -582,9 +582,13 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         float: left;
     }
 
-    @media screen and (max-width: 768px) {
-        .qbstp-header-subscribe .col-three-forth, .qbstp-header-subscribe .col-one-third {
-            width: 50%;
+    @media screen and (max-width: 992px) {
+        .qbstp-header-subscribe .col-three-forth {
+            width: 60%;
+        }
+
+        .qbstp-header-subscribe .col-one-third {
+            width: 40%;
         }
     }
 
