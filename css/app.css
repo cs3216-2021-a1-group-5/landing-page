@@ -616,7 +616,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
         border: 1px solid #e6e6e6;
     }
 
-    input[type="text"] {
+    input[type="email"] {
         height: 50px;
     }
 
