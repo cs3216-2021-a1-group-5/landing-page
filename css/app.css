@@ -362,11 +362,17 @@ License URL: https://creativecommons.org/licenses/by/4.0/
     }
 
     .app-about .app-about-cont .icon-container {
+        width: 64px;
+    }
+
+    .app-about .app-about-cont .icon-outline {
         color: white;
+        width: 64px;
     }
 
     .app-about .app-about-cont .icon {
         color: #F37E59;
+        width: 64px;
     }
 
     .app-about .app-about-cont h1 {
